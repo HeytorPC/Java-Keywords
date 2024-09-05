@@ -153,5 +153,5 @@ Reservado, mas não utilizado.
 Reservado, mas não utilizado.
 Esse documento apresenta uma visão geral das principais palavras-chave utilizadas em Java. É um ótimo ponto de partida para desenvolvedores que estão aprendendo ou revisando os fundamentos da linguagem.
 
-👨‍💻 Desenvolvido por: Heytor
+👨‍💻 Desenvolvido por: Heytor    
     Para: quem deseja aprimorar seus conhecimentos em Java!
